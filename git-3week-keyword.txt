@@ -1,0 +1,1 @@
+PR, amend, revert, reset, stash
